@@ -1,7 +1,7 @@
 # ASCII/ANSI art images for Neofetch and beyond
 
 * Install https://github.com/dylanaraps/neofetch/
-* Download `*-neofetch.asc` files from this repo
+* Download `*-neofetch.txt` files from this repo
 * Run Neofetch with arguments (see below)
 
   *or*
@@ -9,7 +9,7 @@
 * Modify your `~/.config/neofetch/config.conf` to make the changes permanent
 
 ### IBM ThinkPad classic logo (vertical) ###
-    neofetch --ascii --source "/path/to/ibm-tp-v-neofetch.asc" --ascii_colors '7' '1' '2' '4'
+    neofetch --ascii --source "/path/to/ibm-tp-v-neofetch.txt" --ascii_colors '7' '1' '2' '4'
 ![Neofetch with IBM ThinkPad logo](https://user-images.githubusercontent.com/4406611/122239502-6ce3e880-ceda-11eb-8824-73bc19586f62.png)
 
 Notes:
