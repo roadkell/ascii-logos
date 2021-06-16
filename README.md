@@ -6,7 +6,7 @@
 
   *or*
 
-* Modify your `~/.config/neofetch/config.conf` to make the changes permanent
+* Modify your `~/.config/neofetch/config.conf` to make changes permanent
 
 ### IBM ThinkPad classic logo (vertical) ###
     neofetch --ascii --source "/path/to/ibm-tp-v-neofetch.txt" --ascii_colors '7' '1' '2' '4'
