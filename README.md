@@ -10,7 +10,7 @@
 
 ### IBM ThinkPad classic logo (vertical) ###
     neofetch --ascii --source "/path/to/ibm-tp-v-neofetch.txt" --ascii_colors '7' '1' '2' '4'
-![Neofetch with IBM ThinkPad logo (vertical)](https://user-images.githubusercontent.com/4406611/122239502-6ce3e880-ceda-11eb-8824-73bc19586f62.png)
+![Neofetch with IBM ThinkPad logo (vertical)](https://user-images.githubusercontent.com/4406611/140593670-a6e3cc10-b0b6-4914-a507-24ab7f10e965.png)
 
 ### IBM ThinkPad classic logo (horizontal) ###
     neofetch --ascii --source "/path/to/ibm-tp-h-neofetch.txt" --ascii_colors '7' '1' '2' '4'
