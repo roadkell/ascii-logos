@@ -18,7 +18,9 @@
 
 ### Bonus version: trans rights! 🏳️‍⚧️ ###
     neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
-![Neofetch with IBM TransPad logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-v-neofetch.png?raw=true)
+    neofetch --ascii --source "/path/to/ibm-transpad-h.txt" --ascii_colors '15' '14' '9'
+![IBM TransPad logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-v.png?raw=true)
+![IBM TransPad logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-h.png?raw=true)
 
 
 * There are some Unicode symbols in use beyond the classic 8-bit ASCII code page (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal and font support Unicode (I use [kitty](https://github.com/kovidgoyal/kitty/) with [MesloLGS NF font](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)).
