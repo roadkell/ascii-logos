@@ -28,4 +28,5 @@
 * Alt versions of logos, as well as plain ASCII, are also available. Enjoy!
 
 
+
 Disclaimer: I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
