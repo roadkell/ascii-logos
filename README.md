@@ -1,4 +1,4 @@
-# ASCII images for Neofetch and beyond #
+# ASCII images for Neofetch (and beyond) #
 
 * Install https://github.com/dylanaraps/neofetch/
 * Download `Neofetch/*.txt` files from this repo
