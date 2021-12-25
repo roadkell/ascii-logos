@@ -33,4 +33,7 @@ Notes:
 * Alt versions of some logos, as well as plain ASCIIs, are also available. Enjoy!
 
 
-Disclaimer: I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
+Legal disclaimer:
+* I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
+* For guidelines on the permitted uses of the IBM logo, refer to <https://www.ibm.com/design/language/ibm-logos/8-bar/>.
+* For guidelines on the permitted uses of the ThinkPad logo, refer to <https://www.lenovo.com/us/en/legal/copytrade/>.
