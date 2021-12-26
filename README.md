@@ -1,7 +1,7 @@
 # ASCII art images for Neofetch (and beyond) #
 
 * Install https://github.com/dylanaraps/neofetch/
-* Download `Neofetch/*.txt` files from this repo
+* Download `neofetch/*.txt` files from this repo
 * Run Neofetch with arguments (see below)
 
   *or*
@@ -28,9 +28,8 @@
 
 
 Notes:
-* There are some Unicode symbols in use beyond the classic 8-bit ASCII code page (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal and font support Unicode (I use [kitty](https://github.com/kovidgoyal/kitty/) with [MesloLGS NF font](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)).
-* These are not proper ANSI images, they use [Neofetch ASCII file format](https://github.com/dylanaraps/neofetch/wiki/Custom-Ascii-art-file-format) which is quite color-limited. This will change when Neofetch [implements](https://github.com/dylanaraps/neofetch/issues/1699) [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#24-bit).
-* Alt versions of some logos, as well as plain ASCIIs, are also available. Enjoy!
+* There are some Unicode symbols in use beyond the classic ASCII code page 437 (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal and font support Unicode (I use [kitty](https://github.com/kovidgoyal/kitty/) with [MesloLGS NF font](https://github.com/romkatv/powerlevel10k#meslo-nerd-font-patched-for-powerlevel10k)). If images look mangled, try `*-lowres.txt` versions - they are based solely on code page 437.
+* These are not proper ANSI images, they use [Neofetch ASCII file format](https://github.com/dylanaraps/neofetch/wiki/Custom-Ascii-art-file-format) which is quite color-limited. This will change when Neofetch [implements](https://github.com/dylanaraps/neofetch/issues/1699) [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#24-bit). Also, colorless versions are available in `monochrome` folder. Enjoy!
 
 
 Legal disclaimer:
