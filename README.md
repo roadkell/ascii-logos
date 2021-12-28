@@ -1,4 +1,4 @@
-# ASCII art images for Neofetch (and beyond) #
+# ASCII Art Images for Neofetch (and Beyond) #
 
 * Install https://github.com/dylanaraps/neofetch/
 * Download `neofetch/*.txt` files from this repo
@@ -8,15 +8,15 @@
 
 * Modify your `~/.config/neofetch/config.conf` to make changes permanent
 
-### IBM ThinkPad classic logo (vertical) ###
+### IBM ThinkPad Classic Logo (vertical) ###
     neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
 ![Neofetch with IBM ThinkPad classic logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-v-neofetch.png?raw=true)
 
-### IBM ThinkPad classic logo (horizontal) ###
+### IBM ThinkPad Classic Logo (horizontal) ###
     neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
 ![IBM ThinkPad classic logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-h.png?raw=true)
 
-### ThinkPad modern logo (horizontal) ###
+### ThinkPad Modern Logo (horizontal) ###
     neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 
@@ -32,12 +32,13 @@
 * These are not proper ANSI images, they use [Neofetch ASCII file format](https://github.com/dylanaraps/neofetch/wiki/Custom-Ascii-art-file-format) which is quite color-limited. This will change when Neofetch [implements](https://github.com/dylanaraps/neofetch/issues/1699) [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#24-bit). Also, colorless versions are available in `monochrome` folder. Enjoy!
 
 
-### TODO ###
+### To Do ###
 * Draw a vertical version of the modern ThinkPad logo.
+* Draw a Lenovo logo.
 * Make low-res versions restricted to the classic charset of ASCII codepage 437.
 
 
-### Legal disclaimer ###
+### Legal Disclaimer ###
 * I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
 * For guidelines on the permitted uses of the IBM logo, refer to <https://www.ibm.com/design/language/ibm-logos/8-bar/>.
 * For guidelines on the permitted uses of the ThinkPad logo, refer to <https://www.lenovo.com/us/en/legal/copytrade/>.
