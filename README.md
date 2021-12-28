@@ -1,6 +1,6 @@
 # ASCII Art Images for Neofetch (and Beyond) #
 
-* Install https://github.com/dylanaraps/neofetch/ (or [any of the alteratives](https://github.com/topics/neofetch))
+* Install https://github.com/dylanaraps/neofetch/ (or [any of the alternatives](https://github.com/topics/neofetch))
 * Download `neofetch/*.txt` files from this repo
 * Run Neofetch with arguments (see below)
 
@@ -33,9 +33,9 @@
 
 
 ### To Do ###
-* Draw a vertical version of the modern ThinkPad logo.
-* Draw a Lenovo logo.
-* Make low-res versions restricted to the classic charset of ASCII codepage 437.
+* Draw a vertical version of the modern ThinkPad logo
+* Draw a Lenovo logo
+* Make low-res versions restricted to the classic charset of ASCII codepage 437
 
 
 ### Legal Disclaimer ###
