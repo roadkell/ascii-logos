@@ -1,6 +1,6 @@
 # ASCII Art Images for Neofetch (and Beyond) #
 
-* Install https://github.com/dylanaraps/neofetch/
+* Install https://github.com/dylanaraps/neofetch/ (or [any of the alteratives](https://github.com/topics/neofetch))
 * Download `neofetch/*.txt` files from this repo
 * Run Neofetch with arguments (see below)
 
