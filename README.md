@@ -9,22 +9,26 @@
 * Modify your `~/.config/neofetch/config.conf` to make changes permanent
 
 ### IBM ThinkPad Classic Logo (vertical) ###
-    neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
+	neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
 ![Neofetch with IBM ThinkPad classic logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-v-neofetch.png?raw=true)
 
 ### IBM ThinkPad Classic Logo (horizontal) ###
-    neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
+	neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
 ![IBM ThinkPad classic logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-h.png?raw=true)
 
 ### ThinkPad Modern Logo ###
-    neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
-    neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
+	neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
+	neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 ![ThinkPad modern logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-v.png?raw=true)
 
+### ThinkPad Modern Logo (half-size, horizontal) ###
+	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '9'
+![ThinkPad modern logo (half-size, horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-halfsize-h.png?raw=true)
+
 ### Trans Rights 🏳️‍⚧️ ###
-    neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
-    neofetch --ascii --source "/path/to/ibm-transpad-h.txt" --ascii_colors '15' '14' '9'
+	neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
+	neofetch --ascii --source "/path/to/ibm-transpad-h.txt" --ascii_colors '15' '14' '9'
 ![IBM TransPad logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-v.png?raw=true)
 ![IBM TransPad logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-h.png?raw=true)
 
