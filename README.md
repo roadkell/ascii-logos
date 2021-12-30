@@ -16,9 +16,11 @@
     neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
 ![IBM ThinkPad classic logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-h.png?raw=true)
 
-### ThinkPad Modern Logo (horizontal) ###
+### ThinkPad Modern Logo ###
+    neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
     neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
+![ThinkPad modern logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-v.png?raw=true)
 
 ### Trans Rights 🏳️‍⚧️ ###
     neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
@@ -33,7 +35,6 @@
 
 
 ### To Do ###
-* Draw a vertical version of the modern ThinkPad logo
 * Draw a Lenovo logo
 * Make low-res versions restricted to the classic charset of ASCII codepage 437
 
