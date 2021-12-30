@@ -19,8 +19,8 @@
 ### ThinkPad Modern Logo ###
 	neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
 	neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
-![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 ![ThinkPad modern logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-v.png?raw=true)
+![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 
 ### ThinkPad Modern Logo (half-size, horizontal) ###
 	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '9'
@@ -34,8 +34,8 @@
 
 
 ### Notes ###
-* There are some Unicode symbols in use beyond the classic charset of ASCII codepage 437 (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal emulator and font support Unicode version 13.0 or later. If images look distorted, try `*-lowres.txt` versions - they only use symbols from Unicode 1.0-3.2 which are likely supported ubiquitously.
-* These are not proper ANSI images, they use [Neofetch ASCII file format](https://github.com/dylanaraps/neofetch/wiki/Custom-Ascii-art-file-format) which is quite color-limited. This will change when Neofetch [implements](https://github.com/dylanaraps/neofetch/issues/1699) [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#24-bit). Also, colorless versions are available in `monochrome` folder. Enjoy!
+* There are Unicode symbols in use beyond the classic charset of ASCII codepage 437 (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal emulator and font support Unicode version 13.0 or later. If images look distorted, try `*-lowres.txt` versions - they only use symbols from Unicode 1.0-3.2 which are likely supported ubiquitously.
+* These are not proper ANSI colors, they use [Neofetch ASCII file format](https://github.com/dylanaraps/neofetch/wiki/Custom-Ascii-art-file-format) which is quite color-limited. This will change when Neofetch [implements](https://github.com/dylanaraps/neofetch/issues/1699) [ANSI escape codes](https://en.wikipedia.org/wiki/ANSI_escape_code#24-bit). Also, colorless versions are available in `monochrome` folder. Enjoy!
 
 
 ### To Do ###
