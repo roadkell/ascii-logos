@@ -43,11 +43,10 @@
 
 
 ### To Do ###
-* Draw a Lenovo logo
-* Make low-res versions restricted to the classic charset of ASCII codepage 437
+* Make low-res versions restricted to the charset of ASCII codepage 437
 
 
 ### Legal Disclaimer ###
 * I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
 * For guidelines on the permitted uses of the IBM logo, refer to <https://www.ibm.com/design/language/ibm-logos/8-bar/>.
-* For guidelines on the permitted uses of the ThinkPad logo, refer to <https://www.lenovo.com/us/en/legal/copytrade/>.
+* For guidelines on the permitted uses of the Lenovo and ThinkPad logos, refer to <https://www.lenovo.com/us/en/legal/copytrade/>.
