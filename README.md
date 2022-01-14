@@ -1,6 +1,6 @@
 # ASCII Art Images for Neofetch (and Beyond) #
 
-* Install https://github.com/dylanaraps/neofetch/ (or [any of the alternatives](https://github.com/topics/neofetch))
+* Install https://github.com/dylanaraps/neofetch/ (or [one of the alternatives](https://github.com/topics/neofetch))
 * Download `neofetch/*.txt` files from this repo
 * Run Neofetch with arguments (see below)
 
@@ -25,6 +25,10 @@
 ### ThinkPad Modern Logo (half-size, horizontal) ###
 	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '9'
 ![ThinkPad modern logo (half-size, horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-halfsize-h.png?raw=true)
+
+### Lenovo Modern Logo (horizontal) ###
+	neofetch --ascii --source "/path/to/lenovo-h.txt" --ascii_colors '1'
+![Lenovo modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/lenovo-h.png?raw=true)
 
 ### Trans Rights 🏳️‍⚧️ ###
 	neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
