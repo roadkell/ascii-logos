@@ -1,12 +1,8 @@
-# ASCII Art Images for Neofetch (and Beyond) #
+## ASCII Art Images for Neofetch (and Beyond) ##
 
-* Install https://github.com/dylanaraps/neofetch/ (or [one of the alternatives](https://github.com/topics/neofetch))
-* Download `neofetch/*.txt` files from this repo
-* Run Neofetch with arguments (see below)
-
-  *or*
-
-* Modify your `~/.config/neofetch/config.conf` to make changes permanent
+* Install https://github.com/dylanaraps/neofetch/ *or* [one of the alternatives](https://github.com/topics/neofetch)
+* Clone this repo *or* download individual `neofetch/*.txt` files
+* Run Neofetch with arguments (see below) *or* modify your `~/.config/neofetch/config.conf` to make changes permanent
 
 ### IBM ThinkPad Classic Logo (vertical) ###
 	neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
@@ -23,7 +19,7 @@
 ![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 
 ### ThinkPad Modern Logo (half-size, horizontal) ###
-	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '9'
+	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (half-size, horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-halfsize-h.png?raw=true)
 
 ### Lenovo Modern Logo (horizontal) ###
@@ -43,7 +39,7 @@
 
 
 ### To Do ###
-* Make low-res versions restricted to the charset of ASCII codepage 437
+* Make low-res versions restricted to the charset of ASCII CP437
 
 
 ### Legal Disclaimer ###
