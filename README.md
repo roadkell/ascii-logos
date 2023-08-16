@@ -1,32 +1,32 @@
-## ASCII Art Images for Neofetch (and Beyond) ##
+## ASCII art logos for Neofetch (and beyond) ##
 
-* Install https://github.com/dylanaraps/neofetch/ *or* [one of the alternatives](https://github.com/topics/neofetch)
-* Clone this repo *or* download individual `neofetch/*.txt` files
-* Run Neofetch with arguments (see below) *or* modify your `~/.config/neofetch/config.conf` to make changes permanent
+* Install https://github.com/dylanaraps/neofetch/ *or* [one of the alternatives](https://github.com/topics/neofetch).
+* Clone this repo *or* download individual `neofetch/*.txt` files.
+* Run Neofetch with arguments (see below) *or* modify your `~/.config/neofetch/config.conf` to make changes permanent.
 
-### IBM ThinkPad Classic Logo (vertical) ###
+### IBM ThinkPad classic logo (vertical) ###
 	neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
 ![Neofetch with IBM ThinkPad classic logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-v-neofetch.png?raw=true)
 
-### IBM ThinkPad Classic Logo (horizontal) ###
+### IBM ThinkPad classic logo (horizontal) ###
 	neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
 ![IBM ThinkPad classic logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-h.png?raw=true)
 
-### ThinkPad Modern Logo ###
+### ThinkPad modern logo ###
 	neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
 	neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-v.png?raw=true)
 ![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
 
-### ThinkPad Modern Logo (half-size, horizontal) ###
+### ThinkPad modern logo (half-size, horizontal) ###
 	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '1'
 ![ThinkPad modern logo (half-size, horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-halfsize-h.png?raw=true)
 
-### Lenovo Modern Logo (horizontal) ###
+### Lenovo modern logo (horizontal) ###
 	neofetch --ascii --source "/path/to/lenovo-h.txt" --ascii_colors '1'
 ![Lenovo modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/lenovo-h.png?raw=true)
 
-### Trans Rights 🏳️‍⚧️ ###
+### Trans rights 🏳️‍⚧️ ###
 	neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
 	neofetch --ascii --source "/path/to/ibm-transpad-h.txt" --ascii_colors '15' '14' '9'
 ![IBM TransPad logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-v.png?raw=true)
@@ -44,11 +44,11 @@ Any donation helps, and we are always grateful to people who spread the word abo
 * Enjoy!
 
 
-### To Do ###
-* Make low-res versions restricted to the charset of ASCII CP437
+### To do ###
+* Make low-res versions restricted to the charset of ASCII CP437.
 
 
-### Legal Disclaimer ###
+### Legal disclaimer ###
 * I am not affiliated with IBM or Lenovo. All trademarks, logos and brand names are the property of their respective owners. Use of these names, trademarks and brands does not imply endorsement.
 * For guidelines on the permitted uses of the IBM logo, refer to <https://www.ibm.com/design/language/ibm-logos/8-bar/>.
 * For guidelines on the permitted uses of the Lenovo and ThinkPad logos, refer to <https://www.lenovo.com/us/en/legal/copytrade/>.
