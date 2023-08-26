@@ -6,31 +6,36 @@
 
 ### IBM ThinkPad classic logo (vertical) ###
 	neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
-![Neofetch with IBM ThinkPad classic logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-v-neofetch.png?raw=true)
+![Neofetch with IBM ThinkPad classic logo (vertical)](./screenshots/ibm-tp-v-neofetch.png?raw=true)
 
 ### IBM ThinkPad classic logo (horizontal) ###
 	neofetch --ascii --source "/path/to/ibm-tp-h.txt" --ascii_colors '7' '1' '2' '4'
-![IBM ThinkPad classic logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-tp-h.png?raw=true)
+![IBM ThinkPad classic logo (horizontal)](./screenshots/ibm-tp-h.png?raw=true)
 
 ### ThinkPad modern logo ###
 	neofetch --ascii --source "/path/to/thinkpad-v.txt" --ascii_colors '7' '1'
 	neofetch --ascii --source "/path/to/thinkpad-h.txt" --ascii_colors '7' '1'
-![ThinkPad modern logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-v.png?raw=true)
-![ThinkPad modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-h.png?raw=true)
+![ThinkPad modern logo (vertical)](./screenshots/thinkpad-v.png?raw=true)
+![ThinkPad modern logo (horizontal)](./screenshots/thinkpad-h.png?raw=true)
 
 ### ThinkPad modern logo (half-size, horizontal) ###
 	neofetch --ascii --source "/path/to/thinkpad-halfsize-h.txt" --ascii_colors '7' '1'
-![ThinkPad modern logo (half-size, horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/thinkpad-halfsize-h.png?raw=true)
+![ThinkPad modern logo (half-size, horizontal)](./screenshots/thinkpad-halfsize-h.png?raw=true)
 
 ### Lenovo modern logo (horizontal) ###
 	neofetch --ascii --source "/path/to/lenovo-h.txt" --ascii_colors '1'
-![Lenovo modern logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/lenovo-h.png?raw=true)
+![Lenovo modern logo (horizontal)](./screenshots/lenovo-h.png?raw=true)
+
+### ThinkServer modern logo ###
+	neofetch --ascii --source "/path/to/thinkserver-v.txt" --ascii_colors '7' '1'
+	neofetch --ascii --source "/path/to/thinkserver-v.txt" --ascii_colors '7' '1'
+![ThinkServer modern logo (vertical)](./screenshots/thinkserver-v.png?raw=true)
 
 ### Trans rights 🏳️‍⚧️ ###
 	neofetch --ascii --source "/path/to/ibm-transpad-v.txt" --ascii_colors '15' '14' '9'
 	neofetch --ascii --source "/path/to/ibm-transpad-h.txt" --ascii_colors '15' '14' '9'
-![IBM TransPad logo (vertical)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-v.png?raw=true)
-![IBM TransPad logo (horizontal)](https://github.com/roadkell/ascii-art/blob/main/screenshots/ibm-transpad-h.png?raw=true)
+![IBM TransPad logo (vertical)](./screenshots/ibm-transpad-v.png?raw=true)
+![IBM TransPad logo (horizontal)](./screenshots/ibm-transpad-h.png?raw=true)
 
 
 ### Important ###
