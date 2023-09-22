@@ -1,4 +1,4 @@
-## ASCII art logos for Neofetch (and beyond) ##
+## ASCII (actually, Unicode) art logos for Neofetch (and beyond) ##
 
 * Install https://github.com/dylanaraps/neofetch/ *or* [one of the alternatives](https://github.com/topics/neofetch).
 * Clone this repo *or* download individual `neofetch/*.txt` files.
