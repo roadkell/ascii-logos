@@ -3,7 +3,7 @@
 * Install [Neofetch](https://github.com/dylanaraps/neofetch) *or* [one of the alternatives](https://github.com/topics/neofetch) (for example, [HyFetch](https://github.com/hykilpikonna/hyfetch) is an updated fork).
 * Clone this repo *or* download individual `neofetch/*.txt` files.
 * Run Neofetch with arguments (see below) *or* modify your `~/.config/neofetch/config.conf` to make changes permanent.
-* Also check out LGBTQ+ pride flag-colored versions [here](https://github.com/roadkell/ascii-logos-uwu).
+* Also check out LGBTQ+ pride flag-colored versions [here](https://github.com/roadkell/ascii-logos-uwu) <3
 
 ### IBM ThinkPad classic logo (vertical) ###
 	neofetch --ascii --source "/path/to/ibm-tp-v.txt" --ascii_colors '7' '1' '2' '4'
