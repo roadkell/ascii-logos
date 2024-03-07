@@ -1,54 +1,54 @@
 ## ThinkPad ASCII (actually, Unicode) logos for all your terminal needs ##
 
 * Install [HyFetch](https://github.com/hykilpikonna/hyfetch) (an updated fork of the original [Neofetch](https://github.com/dylanaraps/neofetch) with 24-bit color support)
-* Clone this repo *or* download individual files from the `fetch` subfolder
+* Clone this repo *or* download individual files from the `color` subfolder
 * Run `neowofetch` with desired arguments (see examples below) *or* modify your `~/.config/neofetch/config.conf` to make changes permanent
 * Also check out LGBTQ+ pride flag-colored versions [here](https://github.com/roadkell/ascii-logos-uwu) <3
 
 ### IBM ThinkPad classic logo (vertical) ###
 ```
-neowofetch --ascii 'path/to/ibm-tp-v.txt' --ascii_colors '#fd1813' '#0fa14c' '#1f70c1' '#ffffff'
+neowofetch --ascii 'color/ibm-tp-v.txt' --ascii_colors '#fd1813' '#0fa14c' '#1f70c1' '#ffffff'
 ```
 ![Neofetch with IBM ThinkPad classic logo (vertical)](./screenshots/ibm-tp-v-full.png?raw=true)
 
 ### IBM ThinkPad classic logo (horizontal) ###
 ```
-neowofetch --ascii 'path/to/ibm-tp-h.txt' --ascii_colors '#fd1813' '#0fa14c' '#1f70c1' '#ffffff'
+neowofetch --ascii 'color/ibm-tp-h.txt' --ascii_colors '#fd1813' '#0fa14c' '#1f70c1' '#ffffff'
 ```
 ![IBM ThinkPad classic logo (horizontal)](./screenshots/ibm-tp-h.png?raw=true)
 
 ### ThinkPad modern logo ###
 ```
-neowofetch --ascii 'path/to/thinkpad-v.txt' --ascii_colors '#e32726' '#ffffff'
-neowofetch --ascii 'path/to/thinkpad-h.txt' --ascii_colors '#e32726' '#ffffff'
+neowofetch --ascii 'color/thinkpad-v.txt' --ascii_colors '#e32726' '#ffffff'
+neowofetch --ascii 'color/thinkpad-h.txt' --ascii_colors '#e32726' '#ffffff'
 ```
 ![ThinkPad modern logo (vertical)](./screenshots/thinkpad-v.png?raw=true)
 ![ThinkPad modern logo (horizontal)](./screenshots/thinkpad-h.png?raw=true)
 
 ### ThinkPad modern logo (half-size, horizontal) ###
 ```
-neowofetch --ascii 'path/to/thinkpad-halfsize-h.txt' --ascii_colors '#e32726' '#ffffff'
+neowofetch --ascii 'color/thinkpad-halfsize-h.txt' --ascii_colors '#e32726' '#ffffff'
 ```
 ![ThinkPad modern logo (half-size, horizontal)](./screenshots/thinkpad-halfsize-h.png?raw=true)
 
 ### Lenovo modern logo (horizontal) ###
 ```
-neowofetch --ascii 'path/to/lenovo-h.txt' --ascii_colors '#e32726'
+neowofetch --ascii 'color/lenovo-h.txt' --ascii_colors '#e32726'
 ```
 ![Lenovo modern logo (horizontal)](./screenshots/lenovo-h.png?raw=true)
 
 ### ThinkServer & ThinkCentre logo (vertical) ###
 ```
-neowofetch --ascii 'path/to/thinkserver-v.txt' --ascii_colors '#e32726' '#ffffff'
-neowofetch --ascii 'path/to/thinkcentre-v.txt' --ascii_colors '#e32726' '#ffffff'
+neowofetch --ascii 'color/thinkserver-v.txt' --ascii_colors '#e32726' '#ffffff'
+neowofetch --ascii 'color/thinkcentre-v.txt' --ascii_colors '#e32726' '#ffffff'
 ```
 ![ThinkServer logo (vertical)](./screenshots/thinkserver-v.png?raw=true)
 ![ThinkCentre logo (vertical)](./screenshots/thinkcentre-v.png?raw=true)
 
 ### Notes ###
 
-* There are Unicode symbols in use beyond the classic charset of ASCII codepage 437 (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Symbols for Legacy Computing](https://en.wikipedia.org/wiki/Symbols_for_Legacy_Computing)), so make sure your terminal emulator and font support them. For example, [Unifont Upper](https://unifoundry.com/unifont/index.html) (`fonts-unifont` package in Ubuntu, `font-gnu-unifont` in Homebrew) and [Code2001](https://www.code2001.com/code2001.htm) fonts have the necessary glyphs. If images look distorted, try `*-lowres.txt` versions — they only use symbols from Unicode 1.0-3.2 which are likely supported in all Unicode-enabled environments.
-* If your terminal doesn't have true color support, try color indices like `--ascii_colors 1 2 4 15` for classic IBM ThinkPad logos and `--ascii_colors 1 15` for modern ones (result depends on your palette). Also, colorless versions are available in the `bw` subfolder.
+* If your terminal or your `*fetch` program doesn't support true color, try color indices like `--ascii_colors 1 2 4 15` for classic IBM ThinkPad logos and `--ascii_colors 1 15` for modern ones (result depends on your palette). Versions without color tags are available in `*-bw` subfolders.
+* Default versions use Unicode characters beyond the charset of [code page 437](https://en.wikipedia.org/wiki/Code_page_437) (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing)), so make sure your terminal emulator and font support them. For nostalgia purposes, `cp437-*` folders have blockier versions restricted to the classic CP437 charset (though still coded in Unicode for compatibility).
 * Enjoy!
 
 ### To do ###
