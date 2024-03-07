@@ -51,10 +51,6 @@ neowofetch --ascii 'color/thinkcentre-v.txt' --ascii_colors '#e32726' '#ffffff'
 * Default versions use Unicode characters beyond the charset of [code page 437](https://en.wikipedia.org/wiki/Code_page_437) (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing)), so make sure your terminal emulator and font support them. For nostalgia purposes, `cp437-*` folders have blockier versions restricted to the classic CP437 charset (though still coded in Unicode for compatibility).
 * Enjoy!
 
-### To do ###
-
-* Make low-res versions restricted to the charset of ASCII CP437.
-
 ### Important ###
 
 [Queer Svit](https://queersvit.org/) is a black queer-run independent team of volunteers from all over the world. With your support we help LGBTQ+ and BAME people affected by the war and/or political repressions get to safety by providing consultations, purchasing tickets, finding free accommodation and providing humanitarian aid.
