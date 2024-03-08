@@ -45,6 +45,12 @@ neowofetch --ascii 'color/thinkcentre-v.txt' --ascii_colors '#e32726' '#ffffff'
 ![ThinkServer logo (vertical)](./screenshots/thinkserver-v.png?raw=true)
 ![ThinkCentre logo (vertical)](./screenshots/thinkcentre-v.png?raw=true)
 
+### ThinkPad Amiga-style line art logo (vertical) ###
+```
+neowofetch --ascii 'color/thinkpad-linear-v.txt' --ascii_colors '#e32726' '#ffffff'
+```
+![ThinkPad Amiga-style line art logo (vertical)](./screenshots/thinkpad-linear-v.png?raw=true)
+
 ### Notes ###
 
 * If your terminal or your `*fetch` program doesn't support true color, try color indices like `--ascii_colors 1 2 4 15` for classic IBM ThinkPad logos and `--ascii_colors 1 15` for modern ones (result depends on your palette). Versions without color tags are available in `*-bw` subfolders.
