@@ -54,7 +54,7 @@ neowofetch --ascii 'color/thinkpad-linear-v.txt' --ascii_colors '#e32726' '#ffff
 ### Notes ###
 
 * If your terminal or your `*fetch` program doesn't support true color, try color indices like `--ascii_colors 1 2 4 15` for classic IBM ThinkPad logos and `--ascii_colors 1 15` for modern ones (result depends on your palette). Versions without color tags are available in `*-bw` subfolders.
-* Default versions use Unicode characters beyond the charset of [code page 437](https://en.wikipedia.org/wiki/Code_page_437) (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing)), so make sure your terminal emulator and font support them. For nostalgia purposes, `cp437-*` folders have blockier versions restricted to the classic CP437 charset (though still coded in Unicode for compatibility).
+* Default versions use Unicode characters beyond the charset of [code page 437](https://en.wikipedia.org/wiki/Code_page_437) (notably, [Block Elements](https://en.wikipedia.org/wiki/Block_Elements) and [Box Drawing](https://en.wikipedia.org/wiki/Box_Drawing)), so make sure your terminal emulator and font support them. For nostalgia purposes, `cp437-*` folders contain blockier versions restricted to the classic CP437 charset (though still coded in Unicode for compatibility).
 * Enjoy!
 
 ### Important ###
